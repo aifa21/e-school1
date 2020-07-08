@@ -1,0 +1,156 @@
+/* NavBar */
+.nav-img img{
+    width: 100px;
+    height: 50px;
+}
+#navbarNav button{  
+width: 100px;
+height: 42px;
+background-color: #21B573;
+border-radius: 32px;
+text-align:center;
+color:white;
+}
+.bg-color{
+    background-color: #F0FFF0;
+}
+
+/*  banner  */
+
+.banner{
+    background-color: #F0FFF0 ;
+   
+   
+}
+.name-highlight{
+    color:#21B573
+}
+.banner-info h6,h1,p,button{
+    margin-left: 60px;
+}
+.banner-img img{
+    width: 400px;
+height: 250px;
+}
+#h6-red{
+    color: #FD511A;
+}
+.banner button{
+    width: 153px;
+height: 43px;
+background: #21B573;
+border-radius: 33px;
+color:white;
+}
+.banner-info,.banner-img{
+     margin:100px 0;
+}
+
+/*   ...Learn...   */
+.learn{
+    margin-top: 60px;
+    margin-bottom: 100px;
+    
+
+}
+.learn1{
+    margin-left:30px;
+    margin-right:30px;
+
+}
+.card{
+    border:none;
+    background-color: #ebfcf0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card:hover{
+    background-color:white;
+}
+.book img{
+    width:66px;
+    margin-top: 10px;
+}
+
+.Student img{
+    width:80px;
+    margin-top: 10px;
+}
+.Test img{
+width:75px;
+margin-top: 10px;
+}
+.Students img{
+width:68px;
+margin-top: 10px;
+}
+
+/* ...Online Course...*/
+.online{
+    margin-bottom: 100px;
+}
+.online h2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.online button{
+    width: 140px;
+    height: 33px;
+    background: #21B573;
+    border-radius: 30px;
+    color:white;
+    margin-bottom: 20px;
+}
+.img-calendar img{
+    height:24px;
+    width:24px;
+}
+.img-people img{
+    height:24px;
+    width:24px;
+}
+
+/* Testimonial */
+.test{
+    margin-bottom: 100px;
+}
+.test-image img{
+    width:120px;
+    height:120px;
+    margin-left:120px;
+    margin-top: 50px;
+   
+}
+.test-p p{
+    vertical-align: middle;
+    margin-right: 120px;
+    margin-top: 50px;
+    
+}
+.test h3{
+    text-align: center;
+    
+}
+
+/* Footer */
+
+.footer-top{
+    background-color: black;
+    color:white;
+    padding:80px 0;
+
+}
+.segment-one{
+    margin:10px 0;
+}
+ul.demo{
+    list-style-type: none;
+    
+}
+.footer-text{
+   
+   margin-top: 200px;
+   font-size: small;
+   
+   
+}
